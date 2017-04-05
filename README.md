@@ -1,6 +1,6 @@
 # Try Out 01 - Refactory
 ### Generator Yield
-To run this program, go to yield directory and run `node generator.js [path] [file_extension]`. Example `node Yield.js ~/Documents js`
+To run this program, go to yield directory and run `node file.js [path] [file_extension]`. Example `node Yield.js ~/Documents js`
 
 ### GraphQL
 ![graphql](https://github.com/sutani/tryout-01/blob/master/Screenshot%20from%202017-04-05%2011:48:57.png)
